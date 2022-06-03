@@ -1,6 +1,6 @@
 # Ethers.js use cases
 
-- On this repo we currently have 3 different js files: 
+- On this repo we currently have 4 different js files: 
 <br/>
     -> In the first one "transferListening" we use ethers.js to listen all the last transactions on the smart contract studyCoin, created and deployed by me on the mumbai networks
 <br/>
