@@ -6,8 +6,9 @@
 <br/>
     -> In the seconde one "decodingTransactions" we chose a transaction hash and get data from there.
 <br/>
-    -> For last we have the "index.js" where whe put this two togheter, listen all the last transactions on the smart contract and see how much was transfered
+    -> We have the "index.js" where whe put this two togheter, listen all the last transactions on the smart contract and see how much was transfered
 <br/>
+    -> And in the file "revertedErrorDecode" we can decode an reverted error and discover why the transaction failed
  <br/>
 
 - This examples are only the basics that we can do with Events and decode in ethers.js.
