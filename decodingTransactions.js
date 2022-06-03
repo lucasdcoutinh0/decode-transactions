@@ -1,5 +1,5 @@
 const ethers = require('ethers');
-let provider = new ethers.providers.InfuraProvider("maticmum", "d13778b232614309af22fda20a18a3af");
+let provider = new ethers.providers.InfuraProvider("maticmum", "Your infura ID");
 const utils = ethers.utils
 
 async function transactionReciept(){

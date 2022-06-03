@@ -1,7 +1,7 @@
 // Require Ethers //
 const ethers = require('ethers');
 // Set Provider //
-let provider = new ethers.providers.InfuraProvider("maticmum", "d13778b232614309af22fda20a18a3af");
+let provider = new ethers.providers.InfuraProvider("maticmum", "Your Infura Id");
 // Shortcut to utils //
 const utils = ethers.utils
 // Contract Infortions //
