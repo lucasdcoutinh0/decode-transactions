@@ -8,7 +8,7 @@
 <br/>
     -> We have the "index.js" where whe put this two togheter, listen all the last transactions on the smart contract and see how much was transfered
 <br/>
-    -> And in the file "revertedErrorDecode" we can decode an reverted error and discover why the transaction failed
+    -> And in the file "revertedErrorDecode" we can decode an reverted error and discover why the transaction failed using the transaction hash
 <br/>
 
 <br/>
